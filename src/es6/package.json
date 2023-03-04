@@ -1,0 +1,23 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "Clases ecma6",
+  "main": "00-let-conts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Worick1/Clalses-de-ecma6-platzi.git"
+  },
+  "keywords": [
+    "ecma6"
+  ],
+  "author": "Abraham Fortunatte",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Worick1/Clalses-de-ecma6-platzi/issues"
+  },
+  "homepage": "https://github.com/Worick1/Clalses-de-ecma6-platzi#readme"
+}
